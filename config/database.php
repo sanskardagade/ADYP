@@ -5,7 +5,7 @@ class Database
     private $host = "localhost";
     private $dbname = "staff_management";
     private $username = "root";
-    private $password = "";
+    private $password = "sanskar07";
 
     public $conn;
 

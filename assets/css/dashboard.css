@@ -1,0 +1,50 @@
+.main-content{
+
+    margin-left:240px;
+
+    padding:30px;
+}
+
+.top-navbar{
+
+    background:white;
+
+    padding:20px;
+
+    border-radius:10px;
+
+    box-shadow:0 2px 8px rgba(0,0,0,.1);
+
+    margin-bottom:25px;
+}
+
+.dashboard-card{
+
+    border:none;
+
+    border-radius:15px;
+
+    color:white;
+
+    padding:20px;
+}
+
+.card-red{
+
+    background:#c62828;
+}
+
+.card-orange{
+
+    background:#ef6c00;
+}
+
+.card-green{
+
+    background:#2e7d32;
+}
+
+.card-blue{
+
+    background:#1565c0;
+}
